@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @cosparks
-- 👀 I’m interested in rock climbing
-- 🌱 I’m currently learning to play Dwarf Fortress
-- 💞️ I’m looking to collaborate on impractical novelty data structure libraries in C
-- 📫 How to reach me: github
+Hi, I’m @cosparks.
+I am currently completing an undergrad in computer science at UBC Vancouver and am interested in computer graphics, game engine development, embedded development, compilers and NLP.
 
 <!---
 cosparks/cosparks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
