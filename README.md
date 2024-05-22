@@ -1,5 +1,7 @@
-Hi, I’m @cosparks.
-I am currently completing an undergrad in computer science at UBC Vancouver and am interested in computer graphics, game engine development, embedded development, compilers and NLP.
+Hi, my name is Colby.
+
+I recently completed an undergrad in computer science at UBC Vancouver.
+I am interested in computer graphics, game engine development, embedded development, compilers and NLP.
 
 <!---
 cosparks/cosparks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
